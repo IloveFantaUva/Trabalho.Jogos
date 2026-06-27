@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 0a50dfd1c154aa24ca2d3111d4d138c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7468178248437629991
+    second: Gizmo_0
+  - first:
+      213: 3222607610853585928
+    second: Gizmo_1
+  - first:
+      213: -8707612263714525136
+    second: Gizmo_2
+  - first:
+      213: -8491216998015454999
+    second: Gizmo_3
+  - first:
+      213: -4129757835449030331
+    second: Gizmo_4
+  - first:
+      213: -1289460418300630747
+    second: Gizmo_5
+  - first:
+      213: -3574329689531902921
+    second: Gizmo_6
+  - first:
+      213: 4274048542797478015
+    second: Gizmo_7
+  - first:
+      213: -7960332737190336769
+    second: Gizmo_8
+  - first:
+      213: 7613392512660236070
+    second: Gizmo_9
+  - first:
+      213: -4615787136430436662
+    second: Gizmo_10
+  - first:
+      213: -2622140359854069368
+    second: Gizmo_11
+  - first:
+      213: -8419547564637505655
+    second: Gizmo_12
+  - first:
+      213: -8797796080761178274
+    second: Gizmo_13
+  - first:
+      213: 8527751591236458683
+    second: Gizmo_14
+  - first:
+      213: 5763693889676675302
+    second: Gizmo_15
+  - first:
+      213: 3071699067723301050
+    second: Gizmo_16
+  - first:
+      213: 3080408085827062769
+    second: Gizmo_17
+  - first:
+      213: 5591594665257752962
+    second: Gizmo_18
+  - first:
+      213: 384250316679267239
+    second: Gizmo_19
+  - first:
+      213: -7005113594103162212
+    second: Gizmo_20
+  - first:
+      213: 5201799105630852709
+    second: Gizmo_21
+  - first:
+      213: -3626681870835089303
+    second: Gizmo_22
+  - first:
+      213: -1396345825686800924
+    second: Gizmo_23
+  - first:
+      213: 8156001271699738503
+    second: Gizmo_24
+  - first:
+      213: 984789430147143162
+    second: Gizmo_25
+  - first:
+      213: -3864087218151909092
+    second: Gizmo_26
+  - first:
+      213: -5628063023357830274
+    second: Gizmo_27
+  - first:
+      213: -242601636506941778
+    second: Gizmo_28
+  - first:
+      213: -6707327740214076653
+    second: Gizmo_29
+  - first:
+      213: -7814561216683671324
+    second: Gizmo_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gizmo_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 255
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db739e7373bb5890800000000000000
+      internalID: -7468178248437629991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 255
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f5674c8009bc20800000000000000
+      internalID: 3222607610853585928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 255
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f573f7c8582780800000000000000
+      internalID: -8707612263714525136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0b782f023292a80800000000000000
+      internalID: -8491216998015454999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 255
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549aca9012720b6c0800000000000000
+      internalID: -4129757835449030331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 255
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a347d49aea1ee0800000000000000
+      internalID: -1289460418300630747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349151c51e656ec0800000000000000
+      internalID: -3574329689531902921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 255
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78383a3188705b30800000000000000
+      internalID: 4274048542797478015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff66bd91d87378190800000000000000
+      internalID: -7960332737190336769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6276bbc172438a960800000000000000
+      internalID: 7613392512660236070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0f3e0e0e61ffb0800000000000000
+      internalID: -4615787136430436662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889eea34c394c9bd0800000000000000
+      internalID: -2622140359854069368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 191
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b6404912c72b80800000000000000
+      internalID: -8419547564637505655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 195
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f7e7c313f7e580800000000000000
+      internalID: -8797796080761178274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 198
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8db68e3e8a85670800000000000000
+      internalID: 8527751591236458683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 195
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e884482e01ccff40800000000000000
+      internalID: 5763693889676675302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0cb8c070ed0aa20800000000000000
+      internalID: 3071699067723301050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb86f655decfba20800000000000000
+      internalID: 3080408085827062769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 127
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28958a6f8b5599d40800000000000000
+      internalID: 5591594665257752962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 127
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3cf7e80a1255500800000000000000
+      internalID: 384250316679267239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 127
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a98340d46d8ce90800000000000000
+      internalID: -7005113594103162212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566521ce9b0803840800000000000000
+      internalID: 5201799105630852709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 63
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960868fad007badc0800000000000000
+      internalID: -3626681870835089303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 63
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5b654aede2f9ce0800000000000000
+      internalID: -1396345825686800924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f0c4bb1ffef2170800000000000000
+      internalID: 8156001271699738503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_25
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5da72e4ccaaad00800000000000000
+      internalID: 984789430147143162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c199decd521006ac0800000000000000
+      internalID: -3864087218151909092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bde3fbf7a15e1b0800000000000000
+      internalID: -5628063023357830274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea64312d81b12acf0800000000000000
+      internalID: -242601636506941778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b9a6c05f8cae2a0800000000000000
+      internalID: -6707327740214076653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gizmo_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0860c0af91d8390800000000000000
+      internalID: -7814561216683671324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gizmo_0: -7468178248437629991
+      Gizmo_1: 3222607610853585928
+      Gizmo_10: -4615787136430436662
+      Gizmo_11: -2622140359854069368
+      Gizmo_12: -8419547564637505655
+      Gizmo_13: -8797796080761178274
+      Gizmo_14: 8527751591236458683
+      Gizmo_15: 5763693889676675302
+      Gizmo_16: 3071699067723301050
+      Gizmo_17: 3080408085827062769
+      Gizmo_18: 5591594665257752962
+      Gizmo_19: 384250316679267239
+      Gizmo_2: -8707612263714525136
+      Gizmo_20: -7005113594103162212
+      Gizmo_21: 5201799105630852709
+      Gizmo_22: -3626681870835089303
+      Gizmo_23: -1396345825686800924
+      Gizmo_24: 8156001271699738503
+      Gizmo_25: 984789430147143162
+      Gizmo_26: -3864087218151909092
+      Gizmo_27: -5628063023357830274
+      Gizmo_28: -242601636506941778
+      Gizmo_29: -6707327740214076653
+      Gizmo_3: -8491216998015454999
+      Gizmo_30: -7814561216683671324
+      Gizmo_4: -4129757835449030331
+      Gizmo_5: -1289460418300630747
+      Gizmo_6: -3574329689531902921
+      Gizmo_7: 4274048542797478015
+      Gizmo_8: -7960332737190336769
+      Gizmo_9: 7613392512660236070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
